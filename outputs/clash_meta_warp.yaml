@@ -44,8 +44,8 @@ proxies:
 - name: 🇺🇸 US-Hysteria | 0-0
   type: hysteria
   server: 166.1.221.169
-  port: 11223
-  ports: 11223
+  port: 55555
+  ports: 55555
   auth-str: dongtaiwang.com
   up: 80
   down: 100
@@ -58,7 +58,7 @@ proxies:
 - name: 🇺🇸 US-Hysteria2 | 0-0
   type: hysteria2
   server: 207.90.239.157
-  port: 3400
+  port: 11111
   password: dongtaiwang.com
   sni: www.bing.com
   skip-cert-verify: true
@@ -76,7 +76,7 @@ proxies:
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip4.9447609.xyz
+      Host: ip5.9447609.xyz
   grpc-opts:
     serviceName: /
   h2-opts:
@@ -96,7 +96,7 @@ proxies:
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip4.9447609.xyz
+      Host: ip5.9447609.xyz
   grpc-opts:
     serviceName: /
   h2-opts:
@@ -116,7 +116,7 @@ proxies:
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip4.9447609.xyz
+      Host: ip5.9447609.xyz
   grpc-opts:
     serviceName: /
   h2-opts:
@@ -136,7 +136,7 @@ proxies:
   ws-opts:
     path: github.com/Alvin9999
     headers:
-      Host: ip4.9447609.xyz
+      Host: ip5.9447609.xyz
   grpc-opts:
     serviceName: /
   h2-opts:
