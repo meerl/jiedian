@@ -28,8 +28,8 @@ proxies:
 - name: 🇷🇺 RU-Hysteria | 0-0
   type: hysteria
   server: 46.17.43.223
-  port: 12311
-  ports: 12311
+  port: 23142
+  ports: 23142
   auth-str: dongtaiwang.com
   up: 80
   down: 100
