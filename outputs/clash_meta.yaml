@@ -61,7 +61,7 @@ proxies:
   skip-cert-verify: true
 - name: 🇷🇺 RU-Hysteria2 | 2-0
   type: hysteria2
-  server: hy2.694463.xyz
+  server: 46.29.163.171
   port: 30033
   password: dongtaiwang.com
   sni: www.bing.com
